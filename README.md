@@ -2,6 +2,7 @@
 
 This is the roadmap to greatness. I'll be doing all my testing here.
 
+![](screenshot.png)
 
 ### Abstract
 We will be implementing my Learning Processs. It is not perfect. We will be learning everything detailed below.
